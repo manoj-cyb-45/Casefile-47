@@ -88,14 +88,7 @@ final_casefile/
 └── README.md
 ```
 
-## Run in IntelliJ IDEA
 
-1. Open the `final_casefile` folder as a Java project.
-2. Set the Project SDK to JDK 17 or newer.
-3. Mark `src` as a Sources Root if IntelliJ does not detect it automatically.
-4. Run `src/detective/Main.java`.
-
-No external library needs to be added.
 
 ## Run the submission JAR
 
